@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\Task02\bin\Debug\netcoreapp2.1\Task02.deps.json
+C:\Users\User\source\repos\Task02\bin\Debug\netcoreapp2.1\Task02.runtimeconfig.json
+C:\Users\User\source\repos\Task02\bin\Debug\netcoreapp2.1\Task02.runtimeconfig.dev.json
+C:\Users\User\source\repos\Task02\bin\Debug\netcoreapp2.1\Task02.dll
+C:\Users\User\source\repos\Task02\bin\Debug\netcoreapp2.1\Task02.pdb
+C:\Users\User\source\repos\Task02\obj\Debug\netcoreapp2.1\Task02.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Task02\obj\Debug\netcoreapp2.1\Task02.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task02\obj\Debug\netcoreapp2.1\Task02.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task02\obj\Debug\netcoreapp2.1\Task02.AssemblyInfo.cs
+C:\Users\User\source\repos\Task02\obj\Debug\netcoreapp2.1\Task02.dll
+C:\Users\User\source\repos\Task02\obj\Debug\netcoreapp2.1\Task02.pdb
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.csprojAssemblyReference.cache
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.AssemblyInfo.cs
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.dll
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.pdb
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\bin\Debug\netcoreapp2.1\Task02.deps.json
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\bin\Debug\netcoreapp2.1\Task02.runtimeconfig.json
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\bin\Debug\netcoreapp2.1\Task02.runtimeconfig.dev.json
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\bin\Debug\netcoreapp2.1\Task02.dll
+C:\Users\User\Downloads\TaskAbstraction (1)\TaskAbstraction\Task02\bin\Debug\netcoreapp2.1\Task02.pdb
+C:\Users\User\Downloads\TaskAbstraction\TaskAbstraction\Task02\bin\Debug\netcoreapp2.1\Task02.deps.json
+C:\Users\User\Downloads\TaskAbstraction\TaskAbstraction\Task02\bin\Debug\netcoreapp2.1\Task02.runtimeconfig.json
+C:\Users\User\Downloads\TaskAbstraction\TaskAbstraction\Task02\bin\Debug\netcoreapp2.1\Task02.runtimeconfig.dev.json
+C:\Users\User\Downloads\TaskAbstraction\TaskAbstraction\Task02\bin\Debug\netcoreapp2.1\Task02.dll
+C:\Users\User\Downloads\TaskAbstraction\TaskAbstraction\Task02\bin\Debug\netcoreapp2.1\Task02.pdb
+C:\Users\User\Downloads\TaskAbstraction\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.csprojAssemblyReference.cache
+C:\Users\User\Downloads\TaskAbstraction\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TaskAbstraction\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.AssemblyInfo.cs
+C:\Users\User\Downloads\TaskAbstraction\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.dll
+C:\Users\User\Downloads\TaskAbstraction\TaskAbstraction\Task02\obj\Debug\netcoreapp2.1\Task02.pdb
